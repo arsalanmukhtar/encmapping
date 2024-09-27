@@ -1,0 +1,1612 @@
+{
+	"107px-INT-1-U-21": {
+		"x": 143,
+		"y": 345,
+		"width": 107,
+		"height": 120,
+		"pixelRatio": "1"
+	},
+	"120px-Anchorage": {
+		"x": 374,
+		"y": 398,
+		"width": 120,
+		"height": 60,
+		"pixelRatio": "1"
+	},
+	"120px-Beacon_Lateral": {
+		"x": 252,
+		"y": 452,
+		"width": 120,
+		"height": 66,
+		"pixelRatio": "1"
+	},
+	"120px-CableArea": {
+		"x": 1,
+		"y": 752,
+		"width": 120,
+		"height": 120,
+		"pixelRatio": "1"
+	},
+	"120px-CableO": {
+		"x": 1,
+		"y": 1187,
+		"width": 120,
+		"height": 5,
+		"pixelRatio": "1"
+	},
+	"120px-INT-1-E-10.2.a": {
+		"x": 374,
+		"y": 460,
+		"width": 120,
+		"height": 62,
+		"pixelRatio": "1"
+	},
+	"120px-INT-1-E-10.3.a": {
+		"x": 362,
+		"y": 608,
+		"width": 120,
+		"height": 62,
+		"pixelRatio": "1"
+	},
+	"120px-INT-1-E-10.4.a": {
+		"x": 484,
+		"y": 614,
+		"width": 120,
+		"height": 62,
+		"pixelRatio": "1"
+	},
+	"120px-INT-1-E-18.a": {
+		"x": 621,
+		"y": 511,
+		"width": 120,
+		"height": 36,
+		"pixelRatio": "1"
+	},
+	"120px-INT-1-E-26.2": {
+		"x": 743,
+		"y": 511,
+		"width": 120,
+		"height": 41,
+		"pixelRatio": "1"
+	},
+	"120px-INT-1-E-32.a": {
+		"x": 865,
+		"y": 518,
+		"width": 120,
+		"height": 36,
+		"pixelRatio": "1"
+	},
+	"120px-INT-1-E-34.1": {
+		"x": 484,
+		"y": 531,
+		"width": 120,
+		"height": 81,
+		"pixelRatio": "1"
+	},
+	"120px-INT-1-E-34.3.b": {
+		"x": 249,
+		"y": 686,
+		"width": 120,
+		"height": 56,
+		"pixelRatio": "1"
+	},
+	"120px-INT-1-E-35.1.a": {
+		"x": 826,
+		"y": 556,
+		"width": 120,
+		"height": 58,
+		"pixelRatio": "1"
+	},
+	"120px-INT-1-E-35.1.b": {
+		"x": 755,
+		"y": 450,
+		"width": 120,
+		"height": 59,
+		"pixelRatio": "1"
+	},
+	"120px-INT-1-F-19": {
+		"x": 725,
+		"y": 754,
+		"width": 120,
+		"height": 10,
+		"pixelRatio": "1"
+	},
+	"120px-INT-1-K-21": {
+		"x": 1,
+		"y": 1114,
+		"width": 120,
+		"height": 71,
+		"pixelRatio": "1"
+	},
+	"120px-INT-1-K-22": {
+		"x": 830,
+		"y": 616,
+		"width": 120,
+		"height": 40,
+		"pixelRatio": "1"
+	},
+	"120px-INT-1-K-24": {
+		"x": 374,
+		"y": 296,
+		"width": 120,
+		"height": 100,
+		"pixelRatio": "1"
+	},
+	"120px-INT-1-K-25.a": {
+		"x": 877,
+		"y": 449,
+		"width": 120,
+		"height": 67,
+		"pixelRatio": "1"
+	},
+	"120px-INT-1-K-g": {
+		"x": 626,
+		"y": 350,
+		"width": 120,
+		"height": 98,
+		"pixelRatio": "1"
+	},
+	"120px-INT-1-L-2": {
+		"x": 362,
+		"y": 524,
+		"width": 120,
+		"height": 82,
+		"pixelRatio": "1"
+	},
+	"120px-INT-1-L-15": {
+		"x": 481,
+		"y": 678,
+		"width": 120,
+		"height": 69,
+		"pixelRatio": "1"
+	},
+	"120px-INT-1-L-18.a": {
+		"x": 236,
+		"y": 776,
+		"width": 120,
+		"height": 29,
+		"pixelRatio": "1"
+	},
+	"120px-INT-1-U-6": {
+		"x": 252,
+		"y": 345,
+		"width": 120,
+		"height": 105,
+		"pixelRatio": "1"
+	},
+	"120px-INT-1-U-32": {
+		"x": 358,
+		"y": 749,
+		"width": 120,
+		"height": 28,
+		"pixelRatio": "1"
+	},
+	"120px-Int1-R22": {
+		"x": 603,
+		"y": 688,
+		"width": 120,
+		"height": 66,
+		"pixelRatio": "1"
+	},
+	"120px-Leading_Lines": {
+		"x": 138,
+		"y": 545,
+		"width": 120,
+		"height": 94,
+		"pixelRatio": "1"
+	},
+	"120px-Light_Float": {
+		"x": 898,
+		"y": 278,
+		"width": 120,
+		"height": 82,
+		"pixelRatio": "1"
+	},
+	"120px-Navline": {
+		"x": 236,
+		"y": 744,
+		"width": 120,
+		"height": 30,
+		"pixelRatio": "1"
+	},
+	"180px-CableArea": {
+		"x": 1,
+		"y": 1,
+		"width": 180,
+		"height": 180,
+		"pixelRatio": "1"
+	},
+	"180px-CableO": {
+		"x": 183,
+		"y": 335,
+		"width": 180,
+		"height": 8,
+		"pixelRatio": "1"
+	},
+	"180px-INT-1-E-26.2": {
+		"x": 547,
+		"y": 88,
+		"width": 180,
+		"height": 62,
+		"pixelRatio": "1"
+	},
+	"180px-INT-1-F-19": {
+		"x": 519,
+		"y": 213,
+		"width": 180,
+		"height": 15,
+		"pixelRatio": "1"
+	},
+	"180px-INT-1-K-21": {
+		"x": 183,
+		"y": 144,
+		"width": 180,
+		"height": 106,
+		"pixelRatio": "1"
+	},
+	"180px-INT-1-K-22": {
+		"x": 519,
+		"y": 152,
+		"width": 180,
+		"height": 59,
+		"pixelRatio": "1"
+	},
+	"180px-INT-1-K-25.a": {
+		"x": 365,
+		"y": 1,
+		"width": 180,
+		"height": 100,
+		"pixelRatio": "1"
+	},
+	"180px-INT-1-U-6": {
+		"x": 1,
+		"y": 183,
+		"width": 180,
+		"height": 158,
+		"pixelRatio": "1"
+	},
+	"180px-INT-1-U-32": {
+		"x": 500,
+		"y": 277,
+		"width": 180,
+		"height": 41,
+		"pixelRatio": "1"
+	},
+	"180px-Leading_Lines": {
+		"x": 183,
+		"y": 1,
+		"width": 180,
+		"height": 141,
+		"pixelRatio": "1"
+	},
+	"180px-Navline": {
+		"x": 500,
+		"y": 230,
+		"width": 180,
+		"height": 45,
+		"pixelRatio": "1"
+	},
+	"Anchorage": {
+		"x": 496,
+		"y": 392,
+		"width": 128,
+		"height": 64,
+		"pixelRatio": "1"
+	},
+	"AnchorBerth": {
+		"x": 737,
+		"y": 893,
+		"width": 50,
+		"height": 50,
+		"pixelRatio": "1"
+	},
+	"Beacon_Cairn": {
+		"x": 644,
+		"y": 1150,
+		"width": 44,
+		"height": 43,
+		"pixelRatio": "1"
+	},
+	"Beacon_Cardinal": {
+		"x": 211,
+		"y": 883,
+		"width": 72,
+		"height": 86,
+		"pixelRatio": "1"
+	},
+	"Beacon_Isolated_Danger": {
+		"x": 315,
+		"y": 807,
+		"width": 69,
+		"height": 83,
+		"pixelRatio": "1"
+	},
+	"Beacon_Lateral": {
+		"x": 729,
+		"y": 88,
+		"width": 147,
+		"height": 81,
+		"pixelRatio": "1"
+	},
+	"Beacon_Perch": {
+		"x": 668,
+		"y": 897,
+		"width": 67,
+		"height": 38,
+		"pixelRatio": "1"
+	},
+	"Beacon_Pile": {
+		"x": 818,
+		"y": 950,
+		"width": 21,
+		"height": 43,
+		"pixelRatio": "1"
+	},
+	"Beacon_Safe_Water": {
+		"x": 509,
+		"y": 929,
+		"width": 21,
+		"height": 68,
+		"pixelRatio": "1"
+	},
+	"Beacon_Special_Purpose": {
+		"x": 688,
+		"y": 987,
+		"width": 21,
+		"height": 63,
+		"pixelRatio": "1"
+	},
+	"Beacon_Stake": {
+		"x": 123,
+		"y": 752,
+		"width": 10,
+		"height": 38,
+		"pixelRatio": "1"
+	},
+	"Beacon_Tower": {
+		"x": 780,
+		"y": 950,
+		"width": 36,
+		"height": 43,
+		"pixelRatio": "1"
+	},
+	"Beacon_Withy": {
+		"x": 909,
+		"y": 939,
+		"width": 67,
+		"height": 38,
+		"pixelRatio": "1"
+	},
+	"BoatHoist": {
+		"x": 882,
+		"y": 1067,
+		"width": 30,
+		"height": 30,
+		"pixelRatio": "1"
+	},
+	"BoatYard": {
+		"x": 914,
+		"y": 1067,
+		"width": 30,
+		"height": 30,
+		"pixelRatio": "1"
+	},
+	"Buoy_Barrel": {
+		"x": 965,
+		"y": 410,
+		"width": 57,
+		"height": 27,
+		"pixelRatio": "1"
+	},
+	"Buoy_Can": {
+		"x": 837,
+		"y": 1020,
+		"width": 43,
+		"height": 31,
+		"pixelRatio": "1"
+	},
+	"Buoy_Cardinal": {
+		"x": 748,
+		"y": 350,
+		"width": 105,
+		"height": 98,
+		"pixelRatio": "1"
+	},
+	"Buoy_Cone": {
+		"x": 841,
+		"y": 989,
+		"width": 42,
+		"height": 29,
+		"pixelRatio": "1"
+	},
+	"Buoy_Installation": {
+		"x": 371,
+		"y": 672,
+		"width": 108,
+		"height": 75,
+		"pixelRatio": "1"
+	},
+	"Buoy_Isolated_Danger": {
+		"x": 846,
+		"y": 658,
+		"width": 92,
+		"height": 92,
+		"pixelRatio": "1"
+	},
+	"Buoy_Lateral": {
+		"x": 725,
+		"y": 686,
+		"width": 119,
+		"height": 66,
+		"pixelRatio": "1"
+	},
+	"Buoy_Pillar": {
+		"x": 802,
+		"y": 766,
+		"width": 43,
+		"height": 58,
+		"pixelRatio": "1"
+	},
+	"Buoy_Safe_Water": {
+		"x": 122,
+		"y": 969,
+		"width": 87,
+		"height": 58,
+		"pixelRatio": "1"
+	},
+	"Buoy_Spar": {
+		"x": 688,
+		"y": 1052,
+		"width": 32,
+		"height": 58,
+		"pixelRatio": "1"
+	},
+	"Buoy_Special_Purpose": {
+		"x": 606,
+		"y": 636,
+		"width": 104,
+		"height": 50,
+		"pixelRatio": "1"
+	},
+	"Buoy_Sphere": {
+		"x": 927,
+		"y": 1033,
+		"width": 38,
+		"height": 29,
+		"pixelRatio": "1"
+	},
+	"Buoy_Super": {
+		"x": 602,
+		"y": 925,
+		"width": 54,
+		"height": 29,
+		"pixelRatio": "1"
+	},
+	"Cairn": {
+		"x": 885,
+		"y": 954,
+		"width": 22,
+		"height": 22,
+		"pixelRatio": "1"
+	},
+	"cc-wiki": {
+		"x": 919,
+		"y": 808,
+		"width": 88,
+		"height": 31,
+		"pixelRatio": "1"
+	},
+	"Chandler": {
+		"x": 946,
+		"y": 1068,
+		"width": 30,
+		"height": 30,
+		"pixelRatio": "1"
+	},
+	"ChimneySM": {
+		"x": 519,
+		"y": 103,
+		"width": 26,
+		"height": 47,
+		"pixelRatio": "1"
+	},
+	"ChurchDomeSM": {
+		"x": 998,
+		"y": 245,
+		"width": 25,
+		"height": 25,
+		"pixelRatio": "1"
+	},
+	"ChurchSM": {
+		"x": 358,
+		"y": 779,
+		"width": 25,
+		"height": 25,
+		"pixelRatio": "1"
+	},
+	"ChurchSpireSM": {
+		"x": 848,
+		"y": 1161,
+		"width": 25,
+		"height": 25,
+		"pixelRatio": "1"
+	},
+	"ChurchTowerSM": {
+		"x": 439,
+		"y": 1167,
+		"width": 25,
+		"height": 25,
+		"pixelRatio": "1"
+	},
+	"ColMarks": {
+		"x": 712,
+		"y": 641,
+		"width": 116,
+		"height": 43,
+		"pixelRatio": "1"
+	},
+	"CrossSM": {
+		"x": 816,
+		"y": 995,
+		"width": 19,
+		"height": 45,
+		"pixelRatio": "1"
+	},
+	"DDolphin": {
+		"x": 404,
+		"y": 1169,
+		"width": 30,
+		"height": 22,
+		"pixelRatio": "1"
+	},
+	"DishAerial": {
+		"x": 999,
+		"y": 439,
+		"width": 24,
+		"height": 44,
+		"pixelRatio": "1"
+	},
+	"DistanceI": {
+		"x": 967,
+		"y": 1006,
+		"width": 42,
+		"height": 29,
+		"pixelRatio": "1"
+	},
+	"DistanceMarks": {
+		"x": 626,
+		"y": 320,
+		"width": 13,
+		"height": 28,
+		"pixelRatio": "1"
+	},
+	"DistanceU": {
+		"x": 967,
+		"y": 1037,
+		"width": 42,
+		"height": 29,
+		"pixelRatio": "1"
+	},
+	"Dolphin": {
+		"x": 855,
+		"y": 350,
+		"width": 10,
+		"height": 10,
+		"pixelRatio": "1"
+	},
+	"DredgedArea": {
+		"x": 1,
+		"y": 874,
+		"width": 119,
+		"height": 118,
+		"pixelRatio": "1"
+	},
+	"DumpingGround": {
+		"x": 1,
+		"y": 994,
+		"width": 118,
+		"height": 118,
+		"pixelRatio": "1"
+	},
+	"Fishing_Harbour": {
+		"x": 690,
+		"y": 1150,
+		"width": 42,
+		"height": 43,
+		"pixelRatio": "1"
+	},
+	"Flagstaff": {
+		"x": 711,
+		"y": 987,
+		"width": 21,
+		"height": 48,
+		"pixelRatio": "1"
+	},
+	"FlareStack": {
+		"x": 1003,
+		"y": 841,
+		"width": 20,
+		"height": 49,
+		"pixelRatio": "1"
+	},
+	"FogSignal": {
+		"x": 260,
+		"y": 520,
+		"width": 100,
+		"height": 100,
+		"pixelRatio": "1"
+	},
+	"FuelStation": {
+		"x": 978,
+		"y": 1068,
+		"width": 30,
+		"height": 30,
+		"pixelRatio": "1"
+	},
+	"Harbour": {
+		"x": 999,
+		"y": 485,
+		"width": 21,
+		"height": 21,
+		"pixelRatio": "1"
+	},
+	"HLeft": {
+		"x": 940,
+		"y": 679,
+		"width": 80,
+		"height": 75,
+		"pixelRatio": "1"
+	},
+	"HRight": {
+		"x": 458,
+		"y": 784,
+		"width": 80,
+		"height": 75,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-10.2.a": {
+		"x": 547,
+		"y": 1,
+		"width": 164,
+		"height": 85,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-10.2.b": {
+		"x": 855,
+		"y": 362,
+		"width": 108,
+		"height": 85,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-10.3.a": {
+		"x": 713,
+		"y": 1,
+		"width": 164,
+		"height": 85,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-10.3.b": {
+		"x": 606,
+		"y": 549,
+		"width": 108,
+		"height": 85,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-10.4.a": {
+		"x": 701,
+		"y": 171,
+		"width": 164,
+		"height": 85,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-10.4.b": {
+		"x": 716,
+		"y": 554,
+		"width": 108,
+		"height": 85,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-11.a": {
+		"x": 500,
+		"y": 999,
+		"width": 49,
+		"height": 50,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-13.a": {
+		"x": 370,
+		"y": 1039,
+		"width": 63,
+		"height": 63,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-13.b": {
+		"x": 978,
+		"y": 962,
+		"width": 45,
+		"height": 42,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-14.a": {
+		"x": 374,
+		"y": 1104,
+		"width": 63,
+		"height": 63,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-14.b": {
+		"x": 909,
+		"y": 891,
+		"width": 66,
+		"height": 46,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-15": {
+		"x": 435,
+		"y": 987,
+		"width": 63,
+		"height": 63,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-16.a": {
+		"x": 439,
+		"y": 1102,
+		"width": 63,
+		"height": 63,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-16.b": {
+		"x": 551,
+		"y": 999,
+		"width": 48,
+		"height": 50,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-17.a": {
+		"x": 598,
+		"y": 1114,
+		"width": 44,
+		"height": 53,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-17.b": {
+		"x": 789,
+		"y": 892,
+		"width": 59,
+		"height": 56,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-18.a": {
+		"x": 867,
+		"y": 198,
+		"width": 152,
+		"height": 45,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-18.c": {
+		"x": 642,
+		"y": 992,
+		"width": 44,
+		"height": 53,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-20.a": {
+		"x": 540,
+		"y": 784,
+		"width": 57,
+		"height": 77,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-21.a": {
+		"x": 504,
+		"y": 1113,
+		"width": 48,
+		"height": 59,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-22.a": {
+		"x": 668,
+		"y": 829,
+		"width": 57,
+		"height": 66,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-23": {
+		"x": 386,
+		"y": 779,
+		"width": 70,
+		"height": 89,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-24.a": {
+		"x": 122,
+		"y": 878,
+		"width": 87,
+		"height": 89,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-25.1": {
+		"x": 536,
+		"y": 863,
+		"width": 64,
+		"height": 76,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-25.2": {
+		"x": 919,
+		"y": 841,
+		"width": 82,
+		"height": 48,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-26.1.a": {
+		"x": 662,
+		"y": 756,
+		"width": 55,
+		"height": 71,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-27.a": {
+		"x": 727,
+		"y": 825,
+		"width": 57,
+		"height": 66,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-28.a": {
+		"x": 978,
+		"y": 892,
+		"width": 45,
+		"height": 68,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-28.c": {
+		"x": 599,
+		"y": 756,
+		"width": 61,
+		"height": 93,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-29.a": {
+		"x": 601,
+		"y": 992,
+		"width": 39,
+		"height": 57,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-30.2.b": {
+		"x": 504,
+		"y": 1051,
+		"width": 48,
+		"height": 60,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-30.3.b": {
+		"x": 554,
+		"y": 1108,
+		"width": 42,
+		"height": 57,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-31.a": {
+		"x": 850,
+		"y": 886,
+		"width": 57,
+		"height": 66,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-34.1": {
+		"x": 878,
+		"y": 101,
+		"width": 141,
+		"height": 95,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-34.2.b": {
+		"x": 386,
+		"y": 870,
+		"width": 80,
+		"height": 44,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-34.3.b": {
+		"x": 626,
+		"y": 450,
+		"width": 127,
+		"height": 59,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-35.1.a": {
+		"x": 183,
+		"y": 252,
+		"width": 169,
+		"height": 81,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-35.1.b": {
+		"x": 365,
+		"y": 229,
+		"width": 133,
+		"height": 65,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-35.2": {
+		"x": 671,
+		"y": 937,
+		"width": 42,
+		"height": 48,
+		"pixelRatio": "1"
+	},
+	"INT-1-E-36": {
+		"x": 736,
+		"y": 945,
+		"width": 42,
+		"height": 48,
+		"pixelRatio": "1"
+	},
+	"INT-1-K-2": {
+		"x": 221,
+		"y": 807,
+		"width": 92,
+		"height": 74,
+		"pixelRatio": "1"
+	},
+	"INT-1-K-24": {
+		"x": 1,
+		"y": 639,
+		"width": 133,
+		"height": 111,
+		"pixelRatio": "1"
+	},
+	"INT-1-K-28": {
+		"x": 143,
+		"y": 467,
+		"width": 106,
+		"height": 76,
+		"pixelRatio": "1"
+	},
+	"INT-1-K-48.2.a": {
+		"x": 123,
+		"y": 795,
+		"width": 96,
+		"height": 81,
+		"pixelRatio": "1"
+	},
+	"INT-1-K-g": {
+		"x": 365,
+		"y": 103,
+		"width": 152,
+		"height": 124,
+		"pixelRatio": "1"
+	},
+	"INT-1-L-2": {
+		"x": 682,
+		"y": 258,
+		"width": 131,
+		"height": 90,
+		"pixelRatio": "1"
+	},
+	"INT-1-L-10": {
+		"x": 645,
+		"y": 1099,
+		"width": 41,
+		"height": 49,
+		"pixelRatio": "1"
+	},
+	"INT-1-L-12": {
+		"x": 919,
+		"y": 756,
+		"width": 87,
+		"height": 50,
+		"pixelRatio": "1"
+	},
+	"INT-1-L-13": {
+		"x": 136,
+		"y": 742,
+		"width": 98,
+		"height": 51,
+		"pixelRatio": "1"
+	},
+	"INT-1-L-15": {
+		"x": 496,
+		"y": 458,
+		"width": 123,
+		"height": 71,
+		"pixelRatio": "1"
+	},
+	"INT-1-L-16": {
+		"x": 371,
+		"y": 968,
+		"width": 62,
+		"height": 69,
+		"pixelRatio": "1"
+	},
+	"INT-1-L-17": {
+		"x": 965,
+		"y": 362,
+		"width": 58,
+		"height": 46,
+		"pixelRatio": "1"
+	},
+	"INT-1-L-18.a": {
+		"x": 867,
+		"y": 245,
+		"width": 129,
+		"height": 31,
+		"pixelRatio": "1"
+	},
+	"INT-1-L-18.b": {
+		"x": 260,
+		"y": 622,
+		"width": 100,
+		"height": 62,
+		"pixelRatio": "1"
+	},
+	"INT-1-U-1.2": {
+		"x": 786,
+		"y": 826,
+		"width": 59,
+		"height": 64,
+		"pixelRatio": "1"
+	},
+	"INT-1-U-2": {
+		"x": 532,
+		"y": 941,
+		"width": 55,
+		"height": 56,
+		"pixelRatio": "1"
+	},
+	"INT-1-U-3": {
+		"x": 847,
+		"y": 752,
+		"width": 70,
+		"height": 68,
+		"pixelRatio": "1"
+	},
+	"INT-1-U-7": {
+		"x": 952,
+		"y": 556,
+		"width": 71,
+		"height": 66,
+		"pixelRatio": "1"
+	},
+	"INT-1-U-10": {
+		"x": 847,
+		"y": 822,
+		"width": 70,
+		"height": 62,
+		"pixelRatio": "1"
+	},
+	"INT-1-U-11": {
+		"x": 211,
+		"y": 971,
+		"width": 78,
+		"height": 61,
+		"pixelRatio": "1"
+	},
+	"INT-1-U-17": {
+		"x": 291,
+		"y": 969,
+		"width": 78,
+		"height": 67,
+		"pixelRatio": "1"
+	},
+	"INT-1-U-18": {
+		"x": 468,
+		"y": 861,
+		"width": 66,
+		"height": 66,
+		"pixelRatio": "1"
+	},
+	"INT-1-U-19": {
+		"x": 123,
+		"y": 1106,
+		"width": 79,
+		"height": 72,
+		"pixelRatio": "1"
+	},
+	"INT-1-U-21": {
+		"x": 1,
+		"y": 343,
+		"width": 140,
+		"height": 157,
+		"pixelRatio": "1"
+	},
+	"INT-1-U-22": {
+		"x": 602,
+		"y": 851,
+		"width": 64,
+		"height": 72,
+		"pixelRatio": "1"
+	},
+	"INT-1-U-24": {
+		"x": 815,
+		"y": 278,
+		"width": 81,
+		"height": 70,
+		"pixelRatio": "1"
+	},
+	"INT-1-U-26": {
+		"x": 554,
+		"y": 1051,
+		"width": 50,
+		"height": 55,
+		"pixelRatio": "1"
+	},
+	"INT-1-U-28": {
+		"x": 289,
+		"y": 1038,
+		"width": 79,
+		"height": 66,
+		"pixelRatio": "1"
+	},
+	"INT-1-U-29": {
+		"x": 367,
+		"y": 916,
+		"width": 66,
+		"height": 50,
+		"pixelRatio": "1"
+	},
+	"INT-1-U-30": {
+		"x": 435,
+		"y": 929,
+		"width": 72,
+		"height": 56,
+		"pixelRatio": "1"
+	},
+	"INT1-P1a": {
+		"x": 554,
+		"y": 1167,
+		"width": 36,
+		"height": 26,
+		"pixelRatio": "1"
+	},
+	"INT1-P1b": {
+		"x": 368,
+		"y": 1169,
+		"width": 34,
+		"height": 24,
+		"pixelRatio": "1"
+	},
+	"INT1-P1c": {
+		"x": 841,
+		"y": 954,
+		"width": 42,
+		"height": 33,
+		"pixelRatio": "1"
+	},
+	"INT1-P2": {
+		"x": 286,
+		"y": 1106,
+		"width": 86,
+		"height": 60,
+		"pixelRatio": "1"
+	},
+	"INT1-P3": {
+		"x": 204,
+		"y": 1102,
+		"width": 80,
+		"height": 72,
+		"pixelRatio": "1"
+	},
+	"INT1-P4": {
+		"x": 987,
+		"y": 518,
+		"width": 32,
+		"height": 36,
+		"pixelRatio": "1"
+	},
+	"INT1-P5": {
+		"x": 688,
+		"y": 1112,
+		"width": 44,
+		"height": 36,
+		"pixelRatio": "1"
+	},
+	"INT1-P6": {
+		"x": 882,
+		"y": 1033,
+		"width": 43,
+		"height": 32,
+		"pixelRatio": "1"
+	},
+	"INT1-P7": {
+		"x": 606,
+		"y": 1051,
+		"width": 37,
+		"height": 61,
+		"pixelRatio": "1"
+	},
+	"INT1-P11-1": {
+		"x": 641,
+		"y": 320,
+		"width": 28,
+		"height": 27,
+		"pixelRatio": "1"
+	},
+	"INT1-P11-2": {
+		"x": 873,
+		"y": 1131,
+		"width": 28,
+		"height": 27,
+		"pixelRatio": "1"
+	},
+	"INT1-P11-3": {
+		"x": 903,
+		"y": 1163,
+		"width": 28,
+		"height": 27,
+		"pixelRatio": "1"
+	},
+	"INT1-P11-4": {
+		"x": 938,
+		"y": 1100,
+		"width": 28,
+		"height": 27,
+		"pixelRatio": "1"
+	},
+	"INT1-P11-5": {
+		"x": 968,
+		"y": 1100,
+		"width": 28,
+		"height": 27,
+		"pixelRatio": "1"
+	},
+	"INT1-P11-6": {
+		"x": 933,
+		"y": 1166,
+		"width": 28,
+		"height": 27,
+		"pixelRatio": "1"
+	},
+	"INT1-P11-7": {
+		"x": 958,
+		"y": 1129,
+		"width": 28,
+		"height": 27,
+		"pixelRatio": "1"
+	},
+	"INT1-P11-8": {
+		"x": 963,
+		"y": 1158,
+		"width": 28,
+		"height": 27,
+		"pixelRatio": "1"
+	},
+	"Int1-R10": {
+		"x": 825,
+		"y": 1053,
+		"width": 32,
+		"height": 33,
+		"pixelRatio": "1"
+	},
+	"Int1-R11": {
+		"x": 859,
+		"y": 1053,
+		"width": 21,
+		"height": 33,
+		"pixelRatio": "1"
+	},
+	"Int1-R12": {
+		"x": 816,
+		"y": 1088,
+		"width": 27,
+		"height": 33,
+		"pixelRatio": "1"
+	},
+	"Int1-R13": {
+		"x": 998,
+		"y": 1100,
+		"width": 25,
+		"height": 33,
+		"pixelRatio": "1"
+	},
+	"Int1-R14": {
+		"x": 935,
+		"y": 1131,
+		"width": 21,
+		"height": 33,
+		"pixelRatio": "1"
+	},
+	"Int1-R15": {
+		"x": 875,
+		"y": 1160,
+		"width": 26,
+		"height": 33,
+		"pixelRatio": "1"
+	},
+	"Int1-R16": {
+		"x": 845,
+		"y": 1088,
+		"width": 27,
+		"height": 33,
+		"pixelRatio": "1"
+	},
+	"Int1-R20": {
+		"x": 480,
+		"y": 749,
+		"width": 97,
+		"height": 33,
+		"pixelRatio": "1"
+	},
+	"Int1-R21": {
+		"x": 645,
+		"y": 1047,
+		"width": 41,
+		"height": 50,
+		"pixelRatio": "1"
+	},
+	"Int1-R22": {
+		"x": 496,
+		"y": 320,
+		"width": 128,
+		"height": 70,
+		"pixelRatio": "1"
+	},
+	"JLeft": {
+		"x": 285,
+		"y": 892,
+		"width": 80,
+		"height": 75,
+		"pixelRatio": "1"
+	},
+	"JRight": {
+		"x": 121,
+		"y": 1029,
+		"width": 80,
+		"height": 75,
+		"pixelRatio": "1"
+	},
+	"Launderette": {
+		"x": 816,
+		"y": 1123,
+		"width": 30,
+		"height": 30,
+		"pixelRatio": "1"
+	},
+	"Light_Al": {
+		"x": 286,
+		"y": 1168,
+		"width": 80,
+		"height": 16,
+		"pixelRatio": "1"
+	},
+	"Light_F": {
+		"x": 204,
+		"y": 1176,
+		"width": 80,
+		"height": 16,
+		"pixelRatio": "1"
+	},
+	"Light_FFl": {
+		"x": 589,
+		"y": 956,
+		"width": 80,
+		"height": 16,
+		"pixelRatio": "1"
+	},
+	"Light_Fl": {
+		"x": 589,
+		"y": 974,
+		"width": 80,
+		"height": 16,
+		"pixelRatio": "1"
+	},
+	"Light_FLFl": {
+		"x": 734,
+		"y": 995,
+		"width": 80,
+		"height": 16,
+		"pixelRatio": "1"
+	},
+	"Light_Float": {
+		"x": 879,
+		"y": 1,
+		"width": 143,
+		"height": 98,
+		"pixelRatio": "1"
+	},
+	"Light_IQ": {
+		"x": 734,
+		"y": 1013,
+		"width": 80,
+		"height": 16,
+		"pixelRatio": "1"
+	},
+	"Light_Iso": {
+		"x": 734,
+		"y": 1031,
+		"width": 80,
+		"height": 16,
+		"pixelRatio": "1"
+	},
+	"Light_IUQ": {
+		"x": 722,
+		"y": 1049,
+		"width": 80,
+		"height": 16,
+		"pixelRatio": "1"
+	},
+	"Light_IVQ": {
+		"x": 722,
+		"y": 1067,
+		"width": 80,
+		"height": 16,
+		"pixelRatio": "1"
+	},
+	"Light_LFl": {
+		"x": 722,
+		"y": 1085,
+		"width": 80,
+		"height": 16,
+		"pixelRatio": "1"
+	},
+	"Light_Major": {
+		"x": 952,
+		"y": 624,
+		"width": 71,
+		"height": 53,
+		"pixelRatio": "1"
+	},
+	"Light_Minor": {
+		"x": 435,
+		"y": 1052,
+		"width": 67,
+		"height": 48,
+		"pixelRatio": "1"
+	},
+	"Light_Mo": {
+		"x": 734,
+		"y": 1103,
+		"width": 80,
+		"height": 16,
+		"pixelRatio": "1"
+	},
+	"Light_Oc": {
+		"x": 734,
+		"y": 1121,
+		"width": 80,
+		"height": 16,
+		"pixelRatio": "1"
+	},
+	"Light_Q": {
+		"x": 734,
+		"y": 1139,
+		"width": 80,
+		"height": 16,
+		"pixelRatio": "1"
+	},
+	"Light_QLFL": {
+		"x": 734,
+		"y": 1157,
+		"width": 80,
+		"height": 16,
+		"pixelRatio": "1"
+	},
+	"Light_UQ": {
+		"x": 734,
+		"y": 1175,
+		"width": 80,
+		"height": 16,
+		"pixelRatio": "1"
+	},
+	"Light_UQLFL": {
+		"x": 885,
+		"y": 979,
+		"width": 80,
+		"height": 16,
+		"pixelRatio": "1"
+	},
+	"Light_Vessel": {
+		"x": 719,
+		"y": 766,
+		"width": 81,
+		"height": 57,
+		"pixelRatio": "1"
+	},
+	"Light_VQ": {
+		"x": 885,
+		"y": 997,
+		"width": 80,
+		"height": 16,
+		"pixelRatio": "1"
+	},
+	"Light_VQLFL": {
+		"x": 885,
+		"y": 1015,
+		"width": 80,
+		"height": 16,
+		"pixelRatio": "1"
+	},
+	"LightHouse": {
+		"x": 203,
+		"y": 1034,
+		"width": 84,
+		"height": 66,
+		"pixelRatio": "1"
+	},
+	"Marina": {
+		"x": 592,
+		"y": 1169,
+		"width": 21,
+		"height": 21,
+		"pixelRatio": "1"
+	},
+	"Marina_NF": {
+		"x": 579,
+		"y": 749,
+		"width": 18,
+		"height": 20,
+		"pixelRatio": "1"
+	},
+	"Mast": {
+		"x": 804,
+		"y": 1049,
+		"width": 19,
+		"height": 36,
+		"pixelRatio": "1"
+	},
+	"MBollard": {
+		"x": 1011,
+		"y": 1006,
+		"width": 12,
+		"height": 12,
+		"pixelRatio": "1"
+	},
+	"MinaretSM": {
+		"x": 848,
+		"y": 1123,
+		"width": 23,
+		"height": 36,
+		"pixelRatio": "1"
+	},
+	"MonumentSM": {
+		"x": 715,
+		"y": 937,
+		"width": 19,
+		"height": 47,
+		"pixelRatio": "1"
+	},
+	"Mooring_Buoy": {
+		"x": 136,
+		"y": 641,
+		"width": 111,
+		"height": 99,
+		"pixelRatio": "1"
+	},
+	"Notice_BBM": {
+		"x": 816,
+		"y": 1155,
+		"width": 30,
+		"height": 30,
+		"pixelRatio": "1"
+	},
+	"Notice_BBML": {
+		"x": 874,
+		"y": 1099,
+		"width": 30,
+		"height": 30,
+		"pixelRatio": "1"
+	},
+	"Notice_BBMR": {
+		"x": 906,
+		"y": 1099,
+		"width": 30,
+		"height": 30,
+		"pixelRatio": "1"
+	},
+	"Notice_BCP": {
+		"x": 903,
+		"y": 1131,
+		"width": 30,
+		"height": 30,
+		"pixelRatio": "1"
+	},
+	"osm_logo_wiki": {
+		"x": 1,
+		"y": 502,
+		"width": 135,
+		"height": 135,
+		"pixelRatio": "1"
+	}
+}

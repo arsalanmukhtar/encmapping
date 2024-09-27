@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Mapbox GL with Spritesheet</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.js"></script>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.css" rel="stylesheet" />
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        #map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="map"></div>
+
+    <script>
+        mapboxgl.accessToken =
+            "pk.eyJ1IjoibXVoYW1tYWQtYXJzYWxhbi0xOTk3IiwiYSI6ImNsaWlmcTNiYjFwZ2wzcnFmOHhoNTNiczQifQ.untU0BCQ0P--YkTAHllk1A";
+
+        var map = new mapboxgl.Map({
+            container: "map",
+            projection: "mercator",
+            // style: 'mapbox://styles/mapbox/light-v11',
+            // sprite: "http://localhost:8000/enc-icons", // Your spritesheet path (without .json/.png extensions)
+            style: {
+                "version": 8,
+                "sprite": "http://localhost:8000/enc-icons", // Path to your custom spritesheet (without .json/.png)
+                "sources": {
+                    "base-map": {
+                        "type": "raster",
+                        "tiles": ["https://a.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png"], // OpenCarto light tile URL
+                        "tileSize": 256
+                    }
+                },
+                "layers": [
+                    {
+                        "id": "base-layer",
+                        "type": "raster",
+                        "source": "base-map"
+                    }
+                ]
+            },
+            center: [-0.592761, 49.605005], // lng lat
+            zoom: 9, // Initial zoom level
+        });
+
+        map.on('load', function () {
+            // Load the geojson files as sources
+            map.addSource('BCNLAT', {
+                type: 'geojson',
+                data: 'http://localhost:8000/ENC_S-57/FR368570/FR368570-BCNLAT.geojson'
+            });
+
+            map.addSource('BCNSPP', {
+                type: 'geojson',
+                data: 'http://localhost:8000/ENC_S-57/FR368570/FR368570-BCNSPP.geojson'
+            });
+
+            map.addSource('BOYCAR', {
+                type: 'geojson',
+                data: 'http://localhost:8000/ENC_S-57/FR368570/FR368570-BOYCAR.geojson'
+            });
+
+            // Add symbol layers for each geojson file using corresponding sprite icons
+            map.addLayer({
+                id: 'BCNLAT-layer',
+                type: 'symbol',
+                source: 'BCNLAT',
+                layout: {
+                    'icon-image': '{120px-Beacon_Lateral}',
+                    'icon-size': 3.0
+                }
+                // paint: {
+                //     'circle-color': "#0a264b",
+                //     'circle-radius': 5
+                // }
+            });
+
+            map.addLayer({
+                id: 'BCNSPP-layer',
+                type: 'symbol',
+                source: 'BCNSPP',
+                layout: {
+                    'icon-image': '{Beacon_Cairn}',
+                    'icon-size': 3.0
+                }
+                // paint: {
+                //     'circle-color': "#0a264b",
+                //     'circle-radius': 5
+                // }
+            });
+
+            map.addLayer({
+                id: 'BOYCAR-layer',
+                type: 'symbol',
+                source: 'BOYCAR',
+                layout: {
+                    'icon-image': '{Buoy_Cardinal}',
+                    'icon-size': 3.0
+                }
+                // paint: {
+                //     'circle-color': "#0a264b",
+                //     'circle-radius': 5
+                // }
+            });
+        });
+
+        // Event listener to handle missing images
+        map.on('styleimagemissing', function (e) {
+            const id = e.id; // The ID of the missing image
+            console.log(`Image ${id} is missing!`);
+
+            // Dynamically load missing images if needed
+            // Example for handling it programmatically
+            // map.addImage(id, { image data });
+        });
+
+    </script>
+</body>
+
+</html>
